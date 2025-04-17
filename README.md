@@ -24,6 +24,7 @@ This is a simple console-based calculator program written in the C language. It 
       ./calculator
    
  Sample Output:
+ 
 ===== Simple Calculator =====
 1. Add
 2. Subtract
@@ -31,6 +32,8 @@ This is a simple console-based calculator program written in the C language. It 
 4. Divide
 5. Exit
 Enter your choice: 1
+
 Enter two numbers: 10 5
+
 Result: 15.00
 
